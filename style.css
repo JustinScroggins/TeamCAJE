@@ -1,7 +1,9 @@
 #body{
     
 }
-
+h1{
+    text-align: center;
+}
 
 .justin-column{
     border: 10px solid red;
