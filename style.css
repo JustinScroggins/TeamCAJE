@@ -1,20 +1,12 @@
-#body{
-    
-}
-h1{
-    text-align: center;
-}
-
-.justin-column{
-    border: 10px solid red;
-    margin: 20px;
-    padding: 20px;
-}
-#profile-image{
-    height: 175px;
-    width: 140px;
-}
 
 h1 {
     text-align: center;
+}
+.about{
+    margin:30px;
+    padding:20px;
+}
+.media-body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
 }
